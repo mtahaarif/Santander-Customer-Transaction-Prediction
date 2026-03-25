@@ -1,0 +1,4 @@
+Optimal Feature Count: 180
+Global OOF ROC-AUC: 0.89483
+Optimal Threshold: 0.6744
+Optuna Params: {'learning_rate': 0.02373565758661305, 'num_leaves': 16, 'max_depth': 10, 'min_child_samples': 56, 'subsample': 0.5219978247279289, 'colsample_bytree': 0.5363049085869913, 'reg_alpha': 1.1769679138751632e-08, 'reg_lambda': 0.0021012573431610855, 'class_weight': 'balanced', 'device': 'gpu', 'n_estimators': 3000, 'random_state': 42}

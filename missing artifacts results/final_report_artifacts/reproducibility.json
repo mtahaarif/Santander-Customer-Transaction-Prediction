@@ -1,0 +1,13 @@
+{
+  "competition": "Santander Customer Transaction Prediction",
+  "framework": "LightGBM",
+  "validation_strategy": "5-Fold Stratified CV",
+  "final_features_count": 180,
+  "optimal_threshold": 0.6744,
+  "metrics": {
+    "OOF_ROC_AUC": 0.89483,
+    "Public_Leaderboard": 0.89693,
+    "Private_Leaderboard": 0.89412
+  },
+  "artifacts_dir": "/kaggle/working/final_report_artifacts"
+}
