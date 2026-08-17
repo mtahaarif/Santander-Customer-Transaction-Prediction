@@ -1,5 +1,4 @@
 # Santander Customer Transaction Prediction
-
 An end-to-end machine learning pipeline built for the Kaggle competition [**Santander Customer Transaction Prediction**](https://www.kaggle.com/competitions/santander-customer-transaction-prediction), where the task is to predict which customers will make a specific future transaction, regardless of the amount, using 200 anonymized numerical features.
 
 The project goes beyond a single notebook submission: it benchmarks six model families, performs exhaustive feature selection, tunes hyperparameters with Optuna, and explains the final model's predictions with SHAP — all backed by saved artifacts for full reproducibility.
@@ -235,3 +234,4 @@ All artifacts needed to reproduce inference (scaler, feature list, trained model
 - [`CEP Machine Learning Project Spring 2026_final.pdf`](./CEP%20Machine%20Learning%20Project%20Spring%202026_final.pdf) — the original project/course brief this work was completed against.
 
 ---
+om local workspace.
