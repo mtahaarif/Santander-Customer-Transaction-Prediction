@@ -5,7 +5,7 @@ The project goes beyond a single notebook submission: it benchmarks six model fa
 
 **Final result: 0.89693 public / 0.89412 private leaderboard ROC-AUC**, versus an 0.8597 logistic-regression baseline.
 
----
+----
 
 ## Table of Contents
 
