@@ -3,7 +3,7 @@
 This repository contains work for the Kaggle competition "Santander Customer Transaction Prediction". It includes notebooks, experiments, and artifacts used to train and evaluate models for predicting whether a customer will make a specific transaction.
 
 Contents
-- `prototyping/` — exploratory notebooks and experiments
+- `prototyping/` — exploratory notebooks and experiments.
 - `results/` — outputs, submission CSV, and saved artifacts (scaler, pipeline metadata)
 - `missing artifacts results/` — supporting reproducibility artifacts
 - Notebooks at the repository root used for final analysis and artifact generation
